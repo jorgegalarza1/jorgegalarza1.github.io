@@ -1,11 +1,11 @@
 # Site settings
-title: Jorge Galarza
+title: Jorge C. Galarza Prieto
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Jorge Galarza
+username: Jorge C. Galarza Prieto
 user_description: I'm a Ph.D. Candidate in the Department of Biology in New Mexico State University.
 user_title: Biologist | Data Scientist | Data Analyst | Food Scientist
 email: jorge_galarza_1@outlook.com
