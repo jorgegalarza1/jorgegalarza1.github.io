@@ -1,1 +1,1 @@
-# Jekyll Resume Theme
+# Resume Theme
