@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jorge Galarza <jorge_galarza_1@outlook.com>",
+  "author": "Jorge Galarza <jorge_galarza_1@icloud.com>",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.6",
